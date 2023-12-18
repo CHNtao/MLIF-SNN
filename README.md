@@ -21,7 +21,7 @@ This paper has been submitted to ***Cognitive Neurodynamics***. The complete cod
 *  [DVS-Gesture](https://research.ibm.com/interactive/dvsgesture/)
 ## TO DO
 The complete layers.py/models.py/train.py script will be release soon.
-* This inference weight to reproduce 84.40% on DVS-CIFAR10 with VGGSNN[Inference model](https://drive.google.com/file/d/174q7vxH_dOUtlXE-YIsBIeEUToz--aiH/view?usp=drive_link)
+* This inference weight is to reproduce 84.40% on DVS-CIFAR10 with VGGSNN.[Inference model](https://drive.google.com/file/d/174q7vxH_dOUtlXE-YIsBIeEUToz--aiH/view?usp=drive_link)
 
 ## Usage
 Run train.py to train MLIF-SNN from scratch, if T=2 for CIFAR10, it will take about six hours on GeForce RTX 3090.
