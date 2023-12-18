@@ -2,7 +2,7 @@
 
 ***Memristive Leaky Integrate-and-Fire Neuron and Learnable Straight-Through Estimator in Spiking Neural Networks***
 
-This paper has been submitted to ***Cognitive Neurodynamics***. The complete code will be made public when our paper is accepted.
+This paper has been submitted to ***Cognitive Neurodynamics***. The complete code will be released when our paper is accepted.
 
 ## Figures
 
@@ -18,8 +18,9 @@ This paper has been submitted to ***Cognitive Neurodynamics***. The complete cod
 *  [CIFAR10](http://www.cs.toronto.edu/~kriz/cifar.html) 
 *  [CIFAR100](http://www.cs.toronto.edu/~kriz/cifar.html)
 *  [DVS-CIFAR10](https://figshare.com/s/d03a91081824536f12a8)
-*  [DVS-Gesture]
+*  [DVS-Gesture](https://research.ibm.com/interactive/dvsgesture/)
 ## TO DO
-
+The complete layers.py/models.py/train.py script will be release soon.
 
 ## Usage
+Run train.py to train MLIF-SNN from scratch, if T=2 for CIFAR10, it will take about six hours on GeForce RTX 3090.
